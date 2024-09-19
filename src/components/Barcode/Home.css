@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+  }
+  
+ .title1 {
+    color: #9d9d9d;
+    margin: 12px;
+  }
+  svg {
+    margin-top: 10px;
+  }
+  
+  .scanner {
+    margin-top: 20px;
+  }
+  .container1{
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: row;
+       justify-content: space-around;
+  }
+  .card1{
+      background-color: black;
+      color: white;
+      border-radius: 12px;
+      width: 100%;
+      margin: 12px;
+      border: 2px dotted rgb(255, 255, 255);
+  }
+  h2{
+    font-variant: small-caps;
+  }
