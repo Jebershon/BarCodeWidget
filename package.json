@@ -28,9 +28,9 @@
     "@mendix/pluggable-widgets-tools": "^10.7.1"
   },
   "dependencies": {
-    "@zxing/library": "^0.21.3",
     "classnames": "^2.2.6",
     "custombarcodewidget": "file:",
+    "html5-qrcode": "^2.3.8",
     "qrcode": "^1.5.4",
     "react-toastify": "^10.0.5"
   },
